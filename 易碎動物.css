@@ -1,0 +1,12 @@
+h1{color:rgb(245, 99, 46);}
+h1,h2,body,a href {text-align:center}
+h2,h3{color: rgb(118, 79, 12);}
+body{color: rgb(104, 12, 191);}
+footer{color: rgb(244, 133, 133);}
+
+footer{
+	background:#ffe1d4; 
+	padding: 10px;      
+	font-size: 14px;   
+	color: #831a1a;   
+}
